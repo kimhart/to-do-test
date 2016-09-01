@@ -1,0 +1,28 @@
+{
+  "name": "to-do-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimhart/to-do-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimhart/to-do-test/issues"
+  },
+  "homepage": "https://github.com/kimhart/to-do-test#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "body-parser": "^1.15.2",
+    "bower": "^1.7.9",
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "method-override": "^2.3.6"
+  }
+}
