@@ -14,10 +14,13 @@ a {
 }
 
 div.main-container {
-  margin: 20vh auto;
+  margin: 15vh auto;
   display: block;
   width: 80%;
-  font-size: 40px;
+}
+
+h1 {
+  font-size: 60px;
 }
 
 .gif {
